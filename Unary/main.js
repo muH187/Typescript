@@ -1,0 +1,10 @@
+var index = 10;
+++index;
+++index;
+++index;
+++index;
+++index;
+console.log(index);
+var number = 10;
+var result = ++number + ++number + 6 + --number - 2;
+console.log(result);
