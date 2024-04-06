@@ -2,8 +2,8 @@ function addTwo(num: number): number {
     return num + 2
 }
 
-let result: number = addTwo(5)
-console.log(result);
+let answer: number = addTwo(5)
+console.log(answer);
 
 function getValue(myVal: number) {
     if(myVal > 5) {
