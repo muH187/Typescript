@@ -44,3 +44,14 @@
 // let string2 = "KARACHI"
 // console.log(string.toUpperCase())
 // console.log(string2.toLowerCase())
+
+// // 11. trim:
+// let string = "  Muhammad Ali         "
+// console.log(string.trim())
+
+// 12. startsWith() endsWith()
+// let str1 = "Python is my favorite language"
+// console.log(str1.startsWith("Python"))
+
+// let str2 = "Python is my favorite language"
+// console.log(str2.endsWith("language"))
